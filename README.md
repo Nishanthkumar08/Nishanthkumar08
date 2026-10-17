@@ -1,13 +1,12 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B2F,100:00FF88&height=220&section=header&text=NISHANTH%20KUMAR&fontSize=42&fontColor=00FF88&fontAlignY=35&desc=PYTHON%20DEVELOPER%20%7C%20FUTURE%20SOFTWARE%20ENGINEER&descSize=13&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+my+coding+world!;Python+Developer+%F0%9F%90%8D;Anime+%E2%9C%95+Code+%E2%9C%95+Creativity;Learning+Today.+Building+Tomorrow.;Turning+Ideas+Into+Reality+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Welcome+to+my+coding+world!;Python+Developer+%F0%9F%90%8D;Clean+Code+%E2%9C%95+Creativity;Learning+Today.+Building+Tomorrow.;Turning+Ideas+Into+Reality+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROFILE-ANIME%20HACKER-00FF88?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/PROFILE-DEVELOPER-00FF88?style=for-the-badge&logo=github&logoColor=black" />
 <img src="https://img.shields.io/badge/FOCUS-PYTHON-00FF88?style=for-the-badge&logo=python&logoColor=black" />
 
 <br/><br/>
